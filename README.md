@@ -21,7 +21,7 @@ Professor: Dr. Ahmed Imteaj
 [Add YouTube or Google Drive link here]
 
 ## Dataset
-Kaggle NBA Players Stats - Seasons_Stats.csv (1980-2017)
+Kaggle NBA Players Stats - Seasons_Stats.csv(ONLY) (1980-2017)
 https://www.kaggle.com/datasets/drgilermo/nba-players-stats
 
 ## How to Run
