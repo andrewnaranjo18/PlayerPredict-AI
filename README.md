@@ -21,8 +21,10 @@ Professor: Dr. Ahmed Imteaj
 [Add YouTube or Google Drive link here]
 
 ## Dataset
-Kaggle NBA Players Stats - Seasons_Stats.csv (1980-2017)
+Kaggle NBA Players Stats (1980-2017)
 https://www.kaggle.com/datasets/drgilermo/nba-players-stats
+
+⚠️ Only download **Seasons_Stats.csv** from this dataset — it is the only file required to run the project.
 
 ## How to Run on Google Colab
 1. Go to https://colab.research.google.com
@@ -35,14 +37,11 @@ https://www.kaggle.com/datasets/drgilermo/nba-players-stats
 8. Scroll to the last cell and click the Gradio link to open the app
 9. Type any NBA player name and click **Predict Next Season**
 
-
 ## Links
-GoogleCollab Notebook-
+Google Colab Notebook -
 https://colab.research.google.com/drive/1eojrq-EsrIf4kNTj3HBqEo8fvjr-7EdZ?usp=sharing
 
-Presentation Recording-
-
-
+Presentation Recording - [Add YouTube or Google Drive link here]
 
 ## Libraries Required
 - pandas
