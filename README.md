@@ -21,14 +21,19 @@ Professor: Dr. Ahmed Imteaj
 [Add YouTube or Google Drive link here]
 
 ## Dataset
-Kaggle NBA Players Stats - Seasons_Stats.csv(ONLY) (1980-2017)
+Kaggle NBA Players Stats - Seasons_Stats.csv (1980-2017)
 https://www.kaggle.com/datasets/drgilermo/nba-players-stats
 
-## How to Run
-1. Upload Seasons_Stats.csv to your working directory
-2. Open PlayerPredict_AI.ipynb in Jupyter or Google Colab
-3. Run all cells in order
-4. Use the Gradio app in the last cell to make predictions
+## How to Run on Google Colab
+1. Go to https://colab.research.google.com
+2. Click **File** → **Upload notebook**
+3. Upload **PlayerPredict_AI.ipynb** from this repository
+4. Download **Seasons_Stats.csv** from this repository
+5. In Colab, click the **folder icon** on the left sidebar
+6. Click the **upload icon** and upload **Seasons_Stats.csv**
+7. Click **Runtime** → **Run all**
+8. Scroll to the last cell and click the Gradio link to open the app
+9. Type any NBA player name and click **Predict Next Season**
 
 ## Libraries Required
 - pandas
