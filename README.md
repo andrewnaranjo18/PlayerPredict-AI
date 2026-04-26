@@ -35,6 +35,15 @@ https://www.kaggle.com/datasets/drgilermo/nba-players-stats
 8. Scroll to the last cell and click the Gradio link to open the app
 9. Type any NBA player name and click **Predict Next Season**
 
+
+## Links
+GoogleCollab Notebook-
+https://colab.research.google.com/drive/1eojrq-EsrIf4kNTj3HBqEo8fvjr-7EdZ?usp=sharing
+
+Presentation Recording-
+
+
+
 ## Libraries Required
 - pandas
 - numpy
