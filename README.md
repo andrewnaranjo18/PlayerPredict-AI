@@ -1,1 +1,30 @@
-# PlayerPredict-AI
+# PlayerPredict AI 🏀
+NBA Next-Season Performance Predictor
+
+## Team Members
+Ethan Zbeda, Andrew Naranjo, Frank Watkins, Edwin Feliz, Jake Scheck
+
+## Course
+CAP 4630 - Intro to Artificial Intelligence | Spring 2026
+Professor: Dr. Ahmed Imteaj
+
+## Project Demo Recording
+[Add YouTube or Google Drive link here]
+
+## Dataset
+Kaggle NBA Players Stats - Seasons_Stats.csv (1980-2017)
+https://www.kaggle.com/datasets/drgilermo/nba-players-stats
+
+## How to Run
+1. Upload Seasons_Stats.csv to your working directory
+2. Open PlayerPredict_AI.ipynb in Jupyter or Google Colab
+3. Run all cells in order
+4. Use the Gradio app in the last cell to make predictions
+
+## Libraries Required
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- gradio
