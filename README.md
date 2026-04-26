@@ -1,6 +1,15 @@
 # PlayerPredict AI 🏀
 NBA Next-Season Performance Predictor
 
+## Overview
+PlayerPredict AI is a machine learning system that predicts NBA player 
+performance for the next season using historical season statistics. 
+The system trains three regression models — Linear Regression, Random Forest, 
+and MLP Neural Network — to predict next-season Points Per Game (PPG), 
+Rebounds Per Game (RPG), and Assists Per Game (APG). 
+Results are displayed through an interactive Gradio web interface 
+with confidence ranges for transparency.
+
 ## Team Members
 Ethan Zbeda, Andrew Naranjo, Frank Watkins, Edwin Feliz, Jake Scheck
 
