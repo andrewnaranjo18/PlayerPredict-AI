@@ -36,7 +36,7 @@ https://www.kaggle.com/datasets/drgilermo/nba-players-stats
 
 ## Links
 Google Colab Notebook -
-https://colab.research.google.com/drive/12K5nVrt7I4cbz2JmY-nH0nrsi1gOD_O3?usp=sharing
+https://colab.research.google.com/drive/1eojrq-EsrIf4kNTj3HBqEo8fvjr-7EdZ?usp=sharing
 
 Presentation Recording - https://www.youtube.com/watch?v=uo6DRlKrlow 
 
