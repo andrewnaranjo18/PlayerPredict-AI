@@ -26,7 +26,7 @@ https://www.kaggle.com/datasets/drgilermo/nba-players-stats
 ## How to Run on Google Colab
 1. Go to https://colab.research.google.com
 2. Click **File** → **Upload notebook**
-3. Upload **PlayerPredict_AI.ipynb** from this repository
+3. Upload **PlayerPredictAI.ipynb** from this repository
 4. Download **Seasons_Stats.csv** from this repository
 5. In Colab, click the **folder icon** on the left sidebar
 6. Click the **upload icon** and upload **Seasons_Stats.csv**
@@ -36,7 +36,7 @@ https://www.kaggle.com/datasets/drgilermo/nba-players-stats
 
 ## Links
 Google Colab Notebook -
-https://colab.research.google.com/drive/1eojrq-EsrIf4kNTj3HBqEo8fvjr-7EdZ?usp=sharing
+https://colab.research.google.com/drive/12K5nVrt7I4cbz2JmY-nH0nrsi1gOD_O3?usp=sharing
 
 Presentation Recording - https://www.youtube.com/watch?v=uo6DRlKrlow 
 
