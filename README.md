@@ -17,9 +17,6 @@ Ethan Zbeda, Andrew Naranjo, Frank Watkins, Edwin Feliz, Jake Scheck
 CAP 4630 - Intro to Artificial Intelligence | Spring 2026
 Professor: Dr. Ahmed Imteaj
 
-## Project Demo Recording
-[Add YouTube or Google Drive link here]
-
 ## Dataset
 Kaggle NBA Players Stats (1980-2017)
 https://www.kaggle.com/datasets/drgilermo/nba-players-stats
@@ -41,7 +38,7 @@ https://www.kaggle.com/datasets/drgilermo/nba-players-stats
 Google Colab Notebook -
 https://colab.research.google.com/drive/1eojrq-EsrIf4kNTj3HBqEo8fvjr-7EdZ?usp=sharing
 
-Presentation Recording - [Add YouTube or Google Drive link here]
+Presentation Recording - https://www.youtube.com/watch?v=uo6DRlKrlow 
 
 ## Libraries Required
 - pandas
